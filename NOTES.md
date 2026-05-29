@@ -1,7 +1,7 @@
 # Notes
 
-Last updated: 2026-05-29T13:00:01.181Z
+Session: 2026-05-29T13:00:01.181Z
 
-## Progress
+## Summary
 
-- prevent XSS vulnerability in output
+- add setup and installation guide
