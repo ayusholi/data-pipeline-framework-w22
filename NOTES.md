@@ -1,7 +1,7 @@
 # Notes
 
-Last updated: 2026-05-31T13:00:00.769Z
+Session: 2026-05-31T13:00:00.769Z
 
-## Progress
+## Summary
 
-- prevent XSS vulnerability in output
+- add architecture decision records
