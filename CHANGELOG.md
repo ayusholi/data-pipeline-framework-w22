@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- implement error handling middleware
-- Build: 2026-05-31T13:00:00.769Z
+- correct type mismatch in data models
+- Updated: 2026-06-04T13:00:01.174Z
