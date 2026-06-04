@@ -1,7 +1,7 @@
 # Notes
 
-Session: 2026-05-31T13:00:00.769Z
+Last updated: 2026-06-04T13:00:01.174Z
 
-## Summary
+## Progress
 
-- add architecture decision records
+- improve test coverage for edge cases
