@@ -1,7 +1,7 @@
 # Notes
 
-Session: 2026-06-11T13:00:01.322Z
+Last updated: 2026-06-14T13:00:01.022Z
 
-## Summary
+## Progress
 
-- implement pagination for list endpoints
+- simplify conditional logic
